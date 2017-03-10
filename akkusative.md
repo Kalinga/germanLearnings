@@ -82,3 +82,4 @@
 |Akkusative|ihren|ihre|ihr|ihre|
 |Nominativ|Ihr|Ihre|Ihr|Ihre|
 |Akkusative|Ihren|Ihre|Ihr|Ihre|
+
