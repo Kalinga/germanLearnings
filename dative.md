@@ -81,3 +81,13 @@ Ja, er hört ihr zu.
 |Nominativ|Ihr|Ihre|Ihr|Ihre|
 |Dative|Ihrem|Ihrer|Ihrem|Ihren|
 
+
+#### Diese Präpositionen stehen immer mit Dativ:
+* [X] aus
+* [X] bei
+* [X] mit
+* [X] seit
+* [X] nach
+* [X] von
+* [X] zu
+* [X] gegenüber

@@ -1,3 +1,4 @@
+Credit: [deutschkursfuertraiskirchen](https://deutschkursfuertraiskirchen.files.wordpress.com/2016/02/deutsch-aber-hallo.pdf)
 #### Diese Verben haben ein Akkusativ objekt 
 
 - fragen 
@@ -75,7 +76,7 @@
 |Nominativ|ihr|ihre|ihr|ihre|
 |Akkusative|ihren|ihre|ihr|ihre|
 |Nominativ|unser|unsere|unser|unsere|
-|Akkusative|unsern|unsere|unser|unsere|
+|Akkusative|unseren|unsere|unser|unsere|
 |Nominativ|euer|eure|euer|eure|
 |Akkusative|euren|eure|euer|eure|
 |Nominativ|ihr|ihre|ihr|ihre|
@@ -83,3 +84,14 @@
 |Nominativ|Ihr|Ihre|Ihr|Ihre|
 |Akkusative|Ihren|Ihre|Ihr|Ihre|
 
+#### Diese Präpositionen stehen immer mit Dativ:
+* [X] bis
+* [X] durch
+* [X] für
+* [X] gegen: against
+* [X] ohne
+* [X] um
+
+	durchs =>  durch das
+	fürs => für das
+	ums => um das
