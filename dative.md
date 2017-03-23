@@ -91,3 +91,6 @@ Ja, er hört ihr zu.
 * [X] von
 * [X] zu
 * [X] gegenüber
+
+aus der (die)Heimat
+

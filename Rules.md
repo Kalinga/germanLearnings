@@ -5,4 +5,10 @@
 #### Subjekt Prädikat Objekt/Akkusativ
 
 	 Elena isst den Kuchen
+
+
+#### Warum-Weil	 
+Warum bist du deutsch lernst? Weil ich arbeite in Duestschland will.
+Warum bist du deutsch lernst? Weil ich Freunde in Deutschland habe.
+
 	 
