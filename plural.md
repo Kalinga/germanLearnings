@@ -18,3 +18,34 @@ Just like in English, there's no plural indefinite article.
 
 Feminine nouns that end in "-in" will need "-nen" in the plural.
 For example, "die Köchin" (the female cook) becomes "die Köchinnen" in its plural form.
+
+das Brot: die Brote
+das Spiel: die Spiele
+das Kind: dir Kinder
+der Mann: die Männer
+die Frau: die Frauen
+die Kartoffel: die kartoffeln
+der Chef: die Chefs
+das Mädchen: die Mädchen
+die Mutter: die Mütter
+die Köchin: die Köchinnen
+die Kuh:die Kühe
+das Schwein:die Schweine
+der Hund: die Hunde
+das Pferd: die Pferde
+der Fisch: die Fische
+Menschen
+Die Bären
+das ei:die eier
+das Insekt:die Insekten
+die Enten
+die Bananen
+die Katzen
+die Spinnen
+die Erdeberen
+die Fliegen
+die Gemüse
+Die Äpfel
+
+
+äöü

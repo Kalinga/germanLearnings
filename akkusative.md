@@ -1,4 +1,14 @@
 Credit: [deutschkursfuertraiskirchen](https://deutschkursfuertraiskirchen.files.wordpress.com/2016/02/deutsch-aber-hallo.pdf)
+
+In the accusative case of the third person pronouns, only the masculine gender shows the change,
+thus neither the feminine "sie" nor the neuter "es" change. 
+For example, "Er/Sie/Es mag ihn/sie/es" (He/She/It likes him/her/it).
+
+
+Similarly, only the masculine gender shows the change in the demonstrative pronouns:
+"der" (for "that one") changes to "den," but "die" and "das" (for "that one") remain the same.
+
+
 #### Diese Verben haben ein Akkusativ objekt 
 
 - fragen 
@@ -95,3 +105,6 @@ Credit: [deutschkursfuertraiskirchen](https://deutschkursfuertraiskirchen.files.
 	durchs =>  durch das
 	fürs => für das
 	ums => um das
+
+http://german.about.com/library/weekly/aa030298.htm
+http://german.about.com/library/blcase_nom.htm
