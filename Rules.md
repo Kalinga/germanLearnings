@@ -90,3 +90,9 @@ Here they are: an, auf, entlang, hinter, in, neben, über, unter, vor, zwischen
 ##### Masculine adds an -en or -n				
 Some masculine nouns add an -en or -n ending in the dative and in all other cases besides the nominative.
 For example in the dative, it is "dem Jungen" (the boy).
+
+Sehenswürdigkeit =  sehen + s + würdig + keit
+The ending -keit turns an adjective into a noun.
+
+Often the ending of a compound noun is a good indicator for the gender of the noun.
+For example, if a noun ends in -keit, chances are high that it is feminine (die).
