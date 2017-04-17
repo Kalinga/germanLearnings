@@ -83,6 +83,7 @@ Ja, er hört ihr zu.
 
 
 #### Diese Präpositionen stehen immer mit Dativ:
+Here they are: aus, außer, bei, gegenüber, mit, nach, seit, von, zu
 * [X] aus
 * [X] bei
 * [X] mit

@@ -46,6 +46,14 @@ die Erdeberen
 die Fliegen
 die Gemüse
 Die Äpfel
-
+das Fahrrad: die Fahrräder
+der Stundenplan:der Stundenpläne
+der Hut:die Hüte
+der Schuh:die Schuhe
+Insekt:die Insekten
+das Fahrrad: die Fahrräder
 
 äöü
+
+
+* For most German masculine or neuter nouns, the plural will end in -er
