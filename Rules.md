@@ -96,3 +96,7 @@ The ending -keit turns an adjective into a noun.
 
 Often the ending of a compound noun is a good indicator for the gender of the noun.
 For example, if a noun ends in -keit, chances are high that it is feminine (die).
+
+##### Ordinal numbers
+* 1-19 -te
+* > 19 -ste
