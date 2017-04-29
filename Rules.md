@@ -100,3 +100,5 @@ For example, if a noun ends in -keit, chances are high that it is feminine (die)
 ##### Ordinal numbers
 * 1-19 -te
 * > 19 -ste
+
+Iche mitte die Wohnung, wenn sie nicht zu laut ist.

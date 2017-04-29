@@ -17,3 +17,7 @@ bei near
 drüben over there
 da here, there
 von from, on about 
+ob whether, if, on account of
+während During, while
+wegen for, because of, for the sake of
+ 
