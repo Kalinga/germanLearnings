@@ -95,3 +95,4 @@ Here they are: aus, außer, bei, gegenüber, mit, nach, seit, von, zu
 
 aus der (die)Heimat
 
+wegen: wegen der Arbeit (Dative) 
