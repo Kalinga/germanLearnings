@@ -15,10 +15,21 @@ possessive determiners mein-, dein-, sein- etc.
 All forms with 'en'[Nominitive and Akkusative follow Singular definite article]
 
 Weak inflection:
+
 definite articles (der, die, das, etc)
-derselb- (the same), derjenig- (the one)
-dies- (this/that), jen- (that), jeglich- (any), jed- (every), which decline like the definite article.
-manch- (some), solch- (such), welch- (which), which decline like the definite article.
+
+derselb- (the same)
+derjenig- (the one)
+dies- (this/that)
+jen- (that)
+jeglich- (any)
+jed- (every) which decline like the definite article.
+
+manch- (some)
+solch- (such)
+welch- (which) which decline like the definite article.
+
 alle (all)
 
 All forms with 'en'[Nominitive and Akkusative Singular with 'e']
+
