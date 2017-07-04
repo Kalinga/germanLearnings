@@ -23,7 +23,7 @@ wegen for, because of, for the sake of
 hin to
 rein inside
 voraus ahead, in front, advance
- 
+wider against, contrary to 
 
  dass: NS
  

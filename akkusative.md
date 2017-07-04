@@ -94,13 +94,15 @@ Similarly, only the masculine gender shows the change in the demonstrative prono
 |Nominativ|Ihr|Ihre|Ihr|Ihre|
 |Akkusative|Ihren|Ihre|Ihr|Ihre|
 
-#### Diese Präpositionen stehen immer mit Dativ:
-* [X] bis
-* [X] durch
-* [X] für
-* [X] gegen: against
-* [X] ohne
-* [X] um
+#### Diese Präpositionen stehen immer mit Akkusativ:
+* [X] bis to, untill, upto, till
+* [X] durch by, through, due to, via, by means of
+* [X] für for, in favor of, considering
+* [X] gegen: against, to, towards, versus
+* [X] ohne without, excluding, minus
+* [X] um around, by, at
+* [X] entlang along
+* [X] wider against, contrary to
 
 	durchs =>  durch das
 	fürs => für das
