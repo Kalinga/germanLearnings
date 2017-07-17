@@ -33,3 +33,4 @@ alle (all)
 
 All forms with 'en'[Nominitive and Akkusative Singular with 'e']
 
+äöüß
