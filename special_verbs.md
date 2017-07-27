@@ -14,6 +14,10 @@ sollen (to be supposed to),
 wollen (to want to)
 are used in the Präteritum in informal contexts as well.
 
+Fix Preposition verbs:
+sich ärgern- angry with
+sich verabschieden- to say goodbye,to bid someone farewell
+ 
 
 regular weak verbs:
 irregular weak verbs:
